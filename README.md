@@ -1,55 +1,18 @@
-# 001AIbiancfuzhuxiangmu
+# ai-coding-assistant
 
- AI/编程辅助项目
+A collection of unrelated projects. No unified purpose — each sub-project stands alone.
 
----
+## Contents
 
-## 30 秒了解这个项目
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| `bio_sim/` | Python 3.8+ / PyGame | Bio-simulation platform (Boids, ecosystem, Game of Life, genetic algorithms) |
+| `explorer-agent/` | Python / FastAPI / Streamlit | AI agent for breaking information bubbles — explores, evaluates, builds knowledge graphs |
+| `codebuddy/20250825181611/` | Node.js | PDF-to-Markdown converter with vectorization |
+| `claude-code-project-config/` | Markdown | Claude Code config collection for 5 local projects |
 
-| 维度 | 内容 |
-|------|------|
-| 项目类型 | AI/Agent 项目 |
-| 技术栈 | Python 3.11+ |
-| 核心功能 |  AI/编程辅助项目 |
-| 适用场景 | 个人学习、原型验证、工具辅助 |
+## Notes
 
----
-
-## 30-Second Project Overview
-
-| Dimension | Content |
-|------|------|
-| Project Type | AI/Agent Project |
-| Tech Stack | Python 3.11+ |
-| Core Function |  AI/编程辅助项目 |
-| Use Cases | Learning, prototyping, tool assistance |
-
----
-
-## 快速开始
-
-```bash
-# Python
-pip install -r requirements.txt && python app.py
-
-# Node.js
-npm install && npm start
-```
-
----
-
-## 项目结构
-```
-├── src/          # 源代码
-├── tests/        # 测试
-└── README.md     # 项目说明
-```
-
----
-
-## 许可证
-MIT License
-
----
-*最后更新: 2026-05-23*
-*作者: 121212165*
+- Each project has its own README with setup instructions
+- No shared dependencies or cross-references between projects
+- MIT License
