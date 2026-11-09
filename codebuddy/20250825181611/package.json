@@ -22,7 +22,7 @@
     "fs-extra": "^10.1.0",
     "glob": "^8.0.3",
     "turndown": "^7.1.1",
-    "cheerio": "^1.0.0-rc.12",
+    "cheerio": "^1.2.0",
     "cli-progress": "^3.11.2",
     "chalk": "^4.1.2",
     "natural": "^6.2.0",
