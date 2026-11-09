@@ -41,7 +41,7 @@ arxiv==2.1.0
 duckduckgo-search==4.1.1
 
 # Utils
-python-dotenv==1.0.0
+python-dotenv==1.2.4
 httpx==0.25.2
 tenacity==8.2.3
 
