@@ -47,5 +47,5 @@ tenacity==8.2.3
 
 # Frontend
 streamlit==1.29.0
-plotly==5.18.0
+plotly==7.1.0
 pandas==2.1.4
