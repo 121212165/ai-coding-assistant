@@ -42,7 +42,7 @@ duckduckgo-search==4.1.1
 
 # Utils
 python-dotenv==1.0.0
-httpx==0.25.2
+httpx==0.28.1
 tenacity==8.2.3
 
 # Frontend
