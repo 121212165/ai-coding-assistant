@@ -19,7 +19,7 @@
   "dependencies": {
     "pdf-parse": "^1.1.1",
     "commander": "^9.4.0",
-    "fs-extra": "^10.1.0",
+    "fs-extra": "^11.4.1",
     "glob": "^8.0.3",
     "turndown": "^7.1.1",
     "cheerio": "^1.0.0-rc.12",
