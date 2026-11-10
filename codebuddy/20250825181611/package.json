@@ -21,7 +21,7 @@
     "commander": "^9.4.0",
     "fs-extra": "^10.1.0",
     "glob": "^8.0.3",
-    "turndown": "^7.1.1",
+    "turndown": "^7.2.5",
     "cheerio": "^1.0.0-rc.12",
     "cli-progress": "^3.11.2",
     "chalk": "^4.1.2",
